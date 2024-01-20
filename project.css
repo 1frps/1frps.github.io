@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(75,0,130);
+    font-family: Cursive, "Gill Sans Extrabold", sans-serif;
+}
+
+.gif {
+    height: 50%;
+    width: 50%;
+}
+
+
+.wrapper{
+  margin: 0 auto;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+  align-items: center;
+}
+
+.hhh {
+    font-size: 1.5em;
+    color: white;
+    margin: 15px 0;
+}
